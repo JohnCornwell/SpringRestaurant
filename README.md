@@ -7,4 +7,4 @@ This API is meant to serve data relating to a restaurant's menu, hours, and cont
 ## Author and Contributors
 John Cornwell
 
-This project is based off of a website called "FrontDash" that was developed by John Cornwell and Logan Larson. This set of sites was meant to emulate the functionality provided by DoorDash and other such sites.
+This project is based off of a website called "FrontDash" that was developed by John Cornwell and Logan Larson for Dr. Kasi Periyasamy. This set of sites was meant to emulate the functionality provided by DoorDash and other such sites.
